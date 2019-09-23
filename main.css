@@ -1,6 +1,9 @@
 body {
   background-color: black;
 }
+ a {
+color: #000000;
+} 
 a:link.com {
 color: #000000;
 }
